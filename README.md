@@ -1,8 +1,8 @@
 # jpa01-agammakkar21
 
-https://jpa01-agammakkar21.dokku-02.cs.ucsb.edu/
+https://jpa01-agammakkar21.dokku-02.cs.ucsb.edu
 
-Deployed at: https://jpa01-agammakkar21.dokku-02.cs.ucsb.edu/
+Deployed at: https://jpa01-agammakkar21.dokku-02.cs.ucsb.edu
 
 
 # About this repo
